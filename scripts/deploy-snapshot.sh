@@ -7,8 +7,8 @@ APACHE_BIN=$APACHE_HOME/bin
 APACHE_WEBAPPS=$APACHE_HOME/webapps
 
 # Define product's variables
-PRODUCT_SNAPSHOT_NAME=jsp-servlet-jdbc-mysql-crud-tutorial-master-0.0.1-SNAPSHOT.war
-RESOURCE_NAME=dbc-mysql-crud-tutorial.war
+PRODUCT_SNAPSHOT_NAME=user-management-0.0.1-SNAPSHOT.war
+RESOURCE_NAME=usermanagement.war
 
 
 # Shutdown Tomcat
